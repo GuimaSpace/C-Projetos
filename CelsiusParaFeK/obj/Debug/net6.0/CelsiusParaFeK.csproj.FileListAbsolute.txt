@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\CelsiusParaFeK\CelsiusParaFeK\bin\Debug\net6.0\CelsiusParaFeK.exe
+C:\Users\Aluno\source\repos\CelsiusParaFeK\CelsiusParaFeK\bin\Debug\net6.0\CelsiusParaFeK.deps.json
+C:\Users\Aluno\source\repos\CelsiusParaFeK\CelsiusParaFeK\bin\Debug\net6.0\CelsiusParaFeK.runtimeconfig.json
+C:\Users\Aluno\source\repos\CelsiusParaFeK\CelsiusParaFeK\bin\Debug\net6.0\CelsiusParaFeK.dll
+C:\Users\Aluno\source\repos\CelsiusParaFeK\CelsiusParaFeK\bin\Debug\net6.0\CelsiusParaFeK.pdb
+C:\Users\Aluno\source\repos\CelsiusParaFeK\CelsiusParaFeK\obj\Debug\net6.0\CelsiusParaFeK.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\CelsiusParaFeK\CelsiusParaFeK\obj\Debug\net6.0\CelsiusParaFeK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\CelsiusParaFeK\CelsiusParaFeK\obj\Debug\net6.0\CelsiusParaFeK.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\CelsiusParaFeK\CelsiusParaFeK\obj\Debug\net6.0\CelsiusParaFeK.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\CelsiusParaFeK\CelsiusParaFeK\obj\Debug\net6.0\CelsiusParaFeK.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\CelsiusParaFeK\CelsiusParaFeK\obj\Debug\net6.0\CelsiusParaFeK.dll
+C:\Users\Aluno\source\repos\CelsiusParaFeK\CelsiusParaFeK\obj\Debug\net6.0\refint\CelsiusParaFeK.dll
+C:\Users\Aluno\source\repos\CelsiusParaFeK\CelsiusParaFeK\obj\Debug\net6.0\CelsiusParaFeK.pdb
+C:\Users\Aluno\source\repos\CelsiusParaFeK\CelsiusParaFeK\obj\Debug\net6.0\CelsiusParaFeK.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\CelsiusParaFeK\CelsiusParaFeK\obj\Debug\net6.0\ref\CelsiusParaFeK.dll
