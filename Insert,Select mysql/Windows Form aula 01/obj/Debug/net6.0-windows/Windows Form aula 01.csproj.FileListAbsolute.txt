@@ -1,0 +1,26 @@
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\bin\Debug\net6.0-windows\Windows Form aula 01.exe
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\bin\Debug\net6.0-windows\Windows Form aula 01.deps.json
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\bin\Debug\net6.0-windows\Windows Form aula 01.runtimeconfig.json
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\bin\Debug\net6.0-windows\Windows Form aula 01.dll
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\bin\Debug\net6.0-windows\Windows Form aula 01.pdb
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\obj\Debug\net6.0-windows\Windows Form aula 01.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\obj\Debug\net6.0-windows\Windows_Form_aula_01.Form1.resources
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\obj\Debug\net6.0-windows\Windows Form aula 01.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\obj\Debug\net6.0-windows\Windows Form aula 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\obj\Debug\net6.0-windows\Windows Form aula 01.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\obj\Debug\net6.0-windows\Windows Form aula 01.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\obj\Debug\net6.0-windows\Windows Form aula 01.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\obj\Debug\net6.0-windows\Windows Form aula 01.dll
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\obj\Debug\net6.0-windows\refint\Windows Form aula 01.dll
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\obj\Debug\net6.0-windows\Windows Form aula 01.pdb
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\obj\Debug\net6.0-windows\Windows Form aula 01.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\obj\Debug\net6.0-windows\ref\Windows Form aula 01.dll
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Aluno\source\repos\Windows Form aula 01\Windows Form aula 01\obj\Debug\net6.0-windows\Windows Form aula 01.csproj.CopyComplete
